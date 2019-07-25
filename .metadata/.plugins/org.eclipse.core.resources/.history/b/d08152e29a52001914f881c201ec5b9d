@@ -1,0 +1,16 @@
+
+public class Homework3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
+
+class book
+{
+	String title;//书名      不写是default，包内可访问
+	int salesnumber;//一本书的出售量
+	static int gensalenumber;//所有书的出售量
+}
